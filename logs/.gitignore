@@ -1,0 +1,10 @@
+# Logs de ejecución
+
+# Ignorar todos los archivos de log generados en runtime
+*.log
+*.csv
+*.txt
+
+# Excepciones: mantener el archivo de documentación y .gitkeep
+!README.md
+!.gitkeep
